@@ -1,6 +1,7 @@
 # Diccionario
 <h1>Diccionario HTML</h1>
-img width="100px" src="https://img.freepik.com/vector-gratis/alojamiento-web-isometrico-composicion-soporte-soporte-tecnico-linea-clientes_1284-54457.jpg?size=626&ext=jpg&ga=GA1.2.1501869773.1669290463&semt=sph";
+<img width="100%" src="https://images.unsplash.com/photo-1593642634524-b40b5baae6bb?ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1489&q=80"&gt;
+
 <table>
 <tr>
 <td>
